@@ -1,0 +1,35 @@
+backend/.env
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+backend/uploads/resumes/*
+backend/uploads/temp/*
+!backend/uploads/resumes/.gitkeep
+!backend/uploads/temp/.gitkeep
+backend/chroma_data/
+backend/*.db
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.DS_Store
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.DS_Store

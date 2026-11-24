@@ -1,0 +1,2 @@
+Machine Learning Engineer (2-6 years). Required: Python, Machine Learning, NLP. Preferred: PyTorch, LLM, SQL. Education: Master.
+Develop NLP and semantic search models, embeddings and LLM powered features.

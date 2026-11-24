@@ -1,0 +1,2 @@
+Python Backend Developer (1-5 years). Required: Python, Flask, SQL. Preferred: Docker, AWS, Git. Education: Bachelor.
+Build REST APIs with Flask, design MySQL schemas and ship reliable services.
