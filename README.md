@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TalentIQ - AI-Powered Recruitment & Interview Management Platform
 
 **Intelligent Recruitment. Smarter Hiring.**
